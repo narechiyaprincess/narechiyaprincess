@@ -1,16 +1,16 @@
-## Hi there 👋
+# narechiyaprincess
 
-<!--
-**narechiyaprincess/narechiyaprincess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building software, creative tools, and interactive systems.
 
-Here are some ideas to get you started:
+Multidisciplinary developer working across desktop tooling, browser automation, audio utilities, and interactive software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus areas
+
+- **Software & Tooling** — Desktop utilities, practical workflows, and application architecture
+- **Automation** — Browser automation with Playwright, agentic workflows, and process orchestration
+- **Audio & Creative Tech** — Audio utilities, plugin organization, MIDI, and sound design tooling
+- **Interactive Systems** — Game prototyping and interactive systems development in Godot
+
+---
+
+<sub>Technical curiosity across software, sound, and interactive media.</sub>
